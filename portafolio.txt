@@ -2,7 +2,5 @@ este es mi portafolio:
 
 html
 css
-
-
-react
-python
+command line
+git
