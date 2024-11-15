@@ -10,4 +10,4 @@ bootstrap
 git
 buenas practicas
 
-boton de pago
+boton de pago. formulario
