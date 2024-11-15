@@ -19,4 +19,5 @@ boton de pago
 formulario
 
 footer mejorado
+agregar ai
 traducir
