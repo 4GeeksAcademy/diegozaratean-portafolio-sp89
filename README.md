@@ -2,7 +2,7 @@
 ## _fullstack develop_
 
 
-paraa ejecutar mi proyecto debes seguir los siguiente pasos:
+para ejecutar mi proyecto debes seguir los siguiente pasos:
 
 - correr sergvidor del front con xyz
 - ejecuutar servidr del back con dfg
