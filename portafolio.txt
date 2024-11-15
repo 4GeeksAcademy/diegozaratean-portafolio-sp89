@@ -10,7 +10,12 @@ bootstrap
 git
 buenas practicas
 
+
+
+
+
 header
 boton de pago
 formulario
 
+footer
