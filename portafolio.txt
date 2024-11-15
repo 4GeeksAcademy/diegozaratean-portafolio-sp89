@@ -18,4 +18,4 @@ header
 boton de pago
 formulario
 
-footer
+footer mejorado
