@@ -20,3 +20,4 @@ formulario
 
 footer mejorado
 agregar ai
+traducir
