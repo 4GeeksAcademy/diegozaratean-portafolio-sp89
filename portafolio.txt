@@ -11,3 +11,6 @@ git
 buenas practicas
 
 boton de pago
+
+
+footer
