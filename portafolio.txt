@@ -10,4 +10,7 @@ bootstrap
 git
 buenas practicas
 
-boton de pago agregr header
+header
+boton de pago
+formulario
+
